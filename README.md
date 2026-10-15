@@ -1,5 +1,5 @@
 <!-- ============================================================
-  GitHub Profile README - Muhammad Fahriel (@Farerudesu)
+  GitHub Profile README — Muhammad Fahriel (@Farerudesu)
   Paste seluruh isi file ini ke repo: Farerudesu/Farerudesu → README.md
 ============================================================ -->
 
@@ -19,7 +19,7 @@
 
 I'm **Fahriel**, an Information Systems student at **Universitas Mulawarman (FT Unmul)** in Samarinda, Indonesia.
 
-Most of my projects start the same way: I run into something inconvenient on my own machine or network, and I end up writing a tool to solve it. I like building software that **stays out of the way and does its job well** - from packet-level Windows networking in C#, to lossless media tools in Python, to AI-powered web apps in TypeScript.
+Most of my projects start the same way: I run into something inconvenient on my own machine or network, and I end up writing a tool to solve it. I like building software that **stays out of the way and does its job well** — from packet-level Windows networking in C#, to lossless media tools in Python, to AI-powered web apps in TypeScript.
 
 - **Currently exploring**: data analytics, system architecture & backend APIs
 - **Learning**: advanced networking, .NET internals, full-stack patterns
@@ -31,20 +31,20 @@ Most of my projects start the same way: I run into something inconvenient on my 
 
 | Project | Stack | What it does |
 |---|---|---|
-| [**WireShift**](https://github.com/Farerudesu/WireShift) | `C#` · `WinDivert` | Routes specific Windows apps to specific network interfaces (e.g. one app via VPN, the rest on Ethernet) - transparent packet-level routing, no VMs or proxy chains |
-| [**EzTrimr**](https://github.com/Farerudesu/EzTrimr) | `Python` · `FFmpeg` | No-nonsense video & audio trimmer for quick, lossless cuts - no heavy timeline editor needed |
-| [**vibetrip-ai-trip-curation**](https://github.com/Farerudesu/vibetrip-ai-trip-curation) | `TypeScript` | AI-assisted travel curation web app - personalized itineraries based on atmosphere & pace |
+| [**WireShift**](https://github.com/Farerudesu/WireShift) | `C#` · `WinDivert` | Routes specific Windows apps to specific network interfaces (e.g. one app via VPN, the rest on Ethernet) — transparent packet-level routing, no VMs or proxy chains |
+| [**EzTrimr**](https://github.com/Farerudesu/EzTrimr) | `Python` · `FFmpeg` | No-nonsense video & audio trimmer for quick, lossless cuts — no heavy timeline editor needed |
+| [**vibetrip-ai-trip-curation**](https://github.com/Farerudesu/vibetrip-ai-trip-curation) | `TypeScript` | AI-assisted travel curation web app — personalized itineraries based on atmosphere & pace |
 | [**isp-load-balance**](https://github.com/Farerudesu/isp-load-balance) | `JavaScript` | Distributes traffic across multiple ISP connections to keep bandwidth stable when one line drops |
 
 <details>
 <summary><b>More projects & coursework</b></summary>
 <br>
 
-- [**world-university-ranking-data-analysis**](https://github.com/Farerudesu/world-university-ranking-data-analysis) - EDA on what drives global university rankings (`Jupyter`)
-- [**youtube-downloader-api**](https://github.com/Farerudesu/youtube-downloader-api) - REST API for YouTube MP4/MP3 streams (`TypeScript` · `Express` · `ffmpeg`)
-- [**Minpro-5-PBO-PersonalSubscriptionTracker**](https://github.com/Farerudesu/Minpro-5-PBO-PersonalSubscriptionTracker) - OOP subscription tracker (`Java`)
-- [**Sistem-Manajemen-Rental-Penjualan-Toko-Gitar-Custom-Shop**](https://github.com/Farerudesu/Sistem-Manajemen-Rental-Penjualan-Toko-Gitar-Custom-Shop) - rental & sales system for a custom guitar shop (`Java`)
-- [**Program-Manajemen-Projek-Multimedia**](https://github.com/Farerudesu/Program-Manajemen-Projek-Multimedia) - project & workflow tool for multimedia production (`Python`)
+- [**world-university-ranking-data-analysis**](https://github.com/Farerudesu/world-university-ranking-data-analysis) — EDA on what drives global university rankings (`Jupyter`)
+- [**youtube-downloader-api**](https://github.com/Farerudesu/youtube-downloader-api) — REST API for YouTube MP4/MP3 streams (`TypeScript` · `Express` · `ffmpeg`)
+- [**Minpro-5-PBO-PersonalSubscriptionTracker**](https://github.com/Farerudesu/Minpro-5-PBO-PersonalSubscriptionTracker) — OOP subscription tracker (`Java`)
+- [**Sistem-Manajemen-Rental-Penjualan-Toko-Gitar-Custom-Shop**](https://github.com/Farerudesu/Sistem-Manajemen-Rental-Penjualan-Toko-Gitar-Custom-Shop) — rental & sales system for a custom guitar shop (`Java`)
+- [**Program-Manajemen-Projek-Multimedia**](https://github.com/Farerudesu/Program-Manajemen-Projek-Multimedia) — project & workflow tool for multimedia production (`Python`)
 
 </details>
 
@@ -52,27 +52,19 @@ Most of my projects start the same way: I run into something inconvenient on my 
 
 ## Tech Stack
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,java,html,css,nodejs,express,dotnet,ffmpeg,git,vscode,jupyter&theme=dark&perline=7" alt="Tech Stack" />
+</p>
 
-**Backend & Systems**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WinDivert](https://img.shields.io/badge/-WinDivert-1f6feb?style=flat-square&logo=windows&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+<details>
+<summary><b>Full stack list</b></summary>
+<br>
 
-**Data & Workflow**
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Languages:** TypeScript · JavaScript · Python · C# · Java · HTML/CSS
+**Backend & Systems:** Node.js · Express · .NET · WinDivert · FFmpeg · youtube-dl-exec
+**Data & Workflow:** Jupyter · Pandas · Matplotlib · Git · VS Code · REST APIs · OOP
+
+</details>
 
 ---
 
@@ -93,9 +85,37 @@ Most of my projects start the same way: I run into something inconvenient on my 
 
 ---
 
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farerudesu/Farerudesu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farerudesu/Farerudesu/output/github-snake.svg" />
+  <img alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/Farerudesu/Farerudesu/output/github-snake-dark.svg" />
+</picture>
+
+<!-- To activate the snake: commit the file .github/workflows/snake.yml from the
+     "snake.yml" file next to this README, then run the workflow once from the
+     Actions tab. It regenerates automatically every 12 hours. -->
+
+---
+
 ## Connect
 
-- GitHub: [@Farerudesu](https://github.com/Farerudesu)
+<p align="center">
+  <a href="https://wa.me/6285175381080">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://instagram.com/_fhrrl">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:farel6489@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>WhatsApp: 0851-7538-1080 · Instagram: <a href="https://instagram.com/_fhrrl">@_fhrrl</a> · Email: <a href="mailto:farel6489@gmail.com">farel6489@gmail.com</a></sub>
+</p>
 
 <!-- ===== Footer Wave (capsule-render) ===== -->
 <p align="center">
