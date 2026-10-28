@@ -1,5 +1,5 @@
 <!-- ============================================================
-  GitHub Profile README — Muhammad Fahriel (@Farerudesu)
+  GitHub Profile README - Muhammad Fahriel (@Farerudesu)
   Paste seluruh isi file ini ke repo: Farerudesu/Farerudesu → README.md
 ============================================================ -->
 
@@ -19,7 +19,7 @@
 
 I'm **Fahriel**, an Information Systems student at **Universitas Mulawarman (FT Unmul)** in Samarinda, Indonesia.
 
-Most of my projects start the same way: I run into something inconvenient on my own machine or network, and I end up writing a tool to solve it. I like building software that **stays out of the way and does its job well** — from packet-level Windows networking in C#, to lossless media tools in Python, to AI-powered web apps in TypeScript.
+Most of my projects start the same way: I run into something inconvenient on my own machine or network, and I end up writing a tool to solve it. I like building software that **stays out of the way and does its job well** - from packet-level Windows networking in C#, to lossless media tools in Python, to AI-powered web apps in TypeScript.
 
 - **Currently exploring**: data analytics, system architecture & backend APIs
 - **Learning**: advanced networking, .NET internals, full-stack patterns
@@ -31,20 +31,20 @@ Most of my projects start the same way: I run into something inconvenient on my 
 
 | Project | Stack | What it does |
 |---|---|---|
-| [**WireShift**](https://github.com/Farerudesu/WireShift) | `C#` · `WinDivert` | Routes specific Windows apps to specific network interfaces (e.g. one app via VPN, the rest on Ethernet) — transparent packet-level routing, no VMs or proxy chains |
-| [**EzTrimr**](https://github.com/Farerudesu/EzTrimr) | `Python` · `FFmpeg` | No-nonsense video & audio trimmer for quick, lossless cuts — no heavy timeline editor needed |
-| [**vibetrip-ai-trip-curation**](https://github.com/Farerudesu/vibetrip-ai-trip-curation) | `TypeScript` | AI-assisted travel curation web app — personalized itineraries based on atmosphere & pace |
+| [**WireShift**](https://github.com/Farerudesu/WireShift) | `C#` · `WinDivert` | Routes specific Windows apps to specific network interfaces (e.g. one app via VPN, the rest on Ethernet) - transparent packet-level routing, no VMs or proxy chains |
+| [**EzTrimr**](https://github.com/Farerudesu/EzTrimr) | `Python` · `FFmpeg` | No-nonsense video & audio trimmer for quick, lossless cuts - no heavy timeline editor needed |
+| [**vibetrip-ai-trip-curation**](https://github.com/Farerudesu/vibetrip-ai-trip-curation) | `TypeScript` | AI-assisted travel curation web app - personalized itineraries based on atmosphere & pace |
 | [**isp-load-balance**](https://github.com/Farerudesu/isp-load-balance) | `JavaScript` | Distributes traffic across multiple ISP connections to keep bandwidth stable when one line drops |
 
 <details>
 <summary><b>More projects & coursework</b></summary>
 <br>
 
-- [**world-university-ranking-data-analysis**](https://github.com/Farerudesu/world-university-ranking-data-analysis) — EDA on what drives global university rankings (`Jupyter`)
-- [**youtube-downloader-api**](https://github.com/Farerudesu/youtube-downloader-api) — REST API for YouTube MP4/MP3 streams (`TypeScript` · `Express` · `ffmpeg`)
-- [**Minpro-5-PBO-PersonalSubscriptionTracker**](https://github.com/Farerudesu/Minpro-5-PBO-PersonalSubscriptionTracker) — OOP subscription tracker (`Java`)
-- [**Sistem-Manajemen-Rental-Penjualan-Toko-Gitar-Custom-Shop**](https://github.com/Farerudesu/Sistem-Manajemen-Rental-Penjualan-Toko-Gitar-Custom-Shop) — rental & sales system for a custom guitar shop (`Java`)
-- [**Program-Manajemen-Projek-Multimedia**](https://github.com/Farerudesu/Program-Manajemen-Projek-Multimedia) — project & workflow tool for multimedia production (`Python`)
+- [**world-university-ranking-data-analysis**](https://github.com/Farerudesu/world-university-ranking-data-analysis) - EDA on what drives global university rankings (`Jupyter`)
+- [**youtube-downloader-api**](https://github.com/Farerudesu/youtube-downloader-api) - REST API for YouTube MP4/MP3 streams (`TypeScript` · `Express` · `ffmpeg`)
+- [**Minpro-5-PBO-PersonalSubscriptionTracker**](https://github.com/Farerudesu/Minpro-5-PBO-PersonalSubscriptionTracker) - OOP subscription tracker (`Java`)
+- [**Sistem-Manajemen-Rental-Penjualan-Toko-Gitar-Custom-Shop**](https://github.com/Farerudesu/Sistem-Manajemen-Rental-Penjualan-Toko-Gitar-Custom-Shop) - rental & sales system for a custom guitar shop (`Java`)
+- [**Program-Manajemen-Projek-Multimedia**](https://github.com/Farerudesu/Program-Manajemen-Projek-Multimedia) - project & workflow tool for multimedia production (`Python`)
 
 </details>
 
